@@ -1,0 +1,19 @@
+{
+  "name": "nodejs_express_mongo",
+  "version": "1.0.0",
+  "description": "coursera course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvasic/NodeJs-Express-Mongo.git"
+  },
+  "author": "Bojan Vasic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bvasic/NodeJs-Express-Mongo/issues"
+  },
+  "homepage": "https://github.com/bvasic/NodeJs-Express-Mongo#readme"
+}
